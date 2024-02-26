@@ -24,7 +24,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/computer_webcam_external_microsoft_hd_3000_model_1492
 distributors: []
-filter: ''
+filter: computer
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_webcam_external_microsoft_hd_3000_model_1492/working
 id: computer_webcam_external_microsoft_hd_3000_model_1492
